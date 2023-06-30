@@ -28,3 +28,14 @@ It involves below steps:
 * Feature scaling
 
 ## Neural Networks
+
+## ANN Model
+
+Neural networks, also known as artificial neural networks (ANNs), are a subset of machine learning and are at the heart of deep learning algorithms.
+The term "Artificial neural network" refers to a biologically inspired sub-field of artificial intelligence modeled after the brain. An Artificial neural network is usually a computational network based on biological neural networks that construct the structure of the human brain. Similar to a human brain has neurons interconnected to each other.
+
+## CNN Model
+
+Convolutional Neural Network, is a deep learning model commonly used for image classification, object detection, and other computer vision tasks. It is designed to automatically learn and extract features from images using multiple layers of convolutional filters.
+
+
