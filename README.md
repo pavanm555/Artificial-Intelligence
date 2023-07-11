@@ -37,5 +37,34 @@ The term "Artificial neural network" refers to a biologically inspired sub-field
 ## CNN Model
 
 Convolutional Neural Network, is a deep learning model commonly used for image classification, object detection, and other computer vision tasks. It is designed to automatically learn and extract features from images using multiple layers of convolutional filters.
+Layers of CNN: 
+1.Input Layer
+2.Convolutional Layer
+3.Activation Layer
+4.Pooling Layer
+5.Dropout Layer
+6.Fully Connected Layer
+7.Output Layer
 
+## Transfer Learning
 
+Transfer learning is a machine learning technique where a pre-trained model that has been trained on a large dataset is used as a starting point for solving a different but related task. Instead of training a model from scratch on a new dataset, transfer learning leverages the knowledge gained from the pre-training to improve learning and performance on the new task.
+Image Classification: VGGNet, ResNet, and InceptionNet
+
+## LSTM
+
+LSTM stands for Long Short-Term Memory, which is a type of recurrent neural network (RNN) architecture. LSTMs were designed to overcome the limitations of traditional RNNs in capturing and retaining long-term dependencies in sequential data.
+
+In traditional RNNs, the main challenge is that information from earlier time steps tends to get diluted or vanish as it propagates through the recurrent connections, leading to difficulties in capturing long-range dependencies. LSTMs address this issue by introducing a more sophisticated memory cell that can selectively retain and update information over multiple time steps.
+
+## NLP
+
+Natural Language Processing (NLP) is a subfield of artificial intelligence (AI) that focuses on the interaction between computers and human language. It involves the development of computational models and techniques to enable computers to understand, interpret, manipulate, and generate human language in a meaningful way.
+
+## OpenCV
+
+OpenCV is an open-source computer vision and machine learning software library. It provides a wide range of functions and algorithms that enable developers to perform various tasks related to computer vision, image processing, and real-time analysis.
+
+## YOLO
+
+YOLO is a popular real-time object detection algorithm known for its speed and accuracy. It divides the input image into a grid and predicts bounding boxes and class probabilities directly from the grid cells. 
